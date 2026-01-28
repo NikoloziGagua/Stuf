@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"C:\\\\claude\\\\claude3\" /s /b)",
+      "Bash(npm run build:*)"
+    ]
+  }
+}
